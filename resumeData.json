@@ -125,16 +125,22 @@
     "skillmessage":"Programming Languages and Technologies",
     "education":[
       {
-        "school":"IPN - ESCOM",
-        "degree":"Computer Systems Engineering",
-        "graduated":"December 2021",
-        "description":"Linux, Servidores, Java, Python, C, SQL, VHDL"
+        "school":"Introduccion al Desarrollo Web I",
+        "degree":"https://correoipn-my.sharepoint.com/:b:/g/personal/fdpazg1400_alumno_ipn_mx/EU-Ki6C6qN9OpHqZ3ZNjixwBRvWOtIs0IA6VmZrGky9N_Q?e=aCxAyS",
+        "graduated":"",
+        "description":""
       },
       {
-        "school":"IPN - CECYT No. 8",
-        "degree":"Computer Technician",
-        "graduated":"Julio 2017",
-        "description":"Web, Java, Android, C, Networking, SQL."
+        "school":"Desarrollo de Apps Moviles",
+        "degree":"https://correoipn-my.sharepoint.com/:b:/g/personal/fdpazg1400_alumno_ipn_mx/EYlDMdSVbmdFiAQYrLu7omwBkRSN8O0y0aNwUzwi47mD3Q?e=HKPoGQ",
+        "graduated":"",
+        "description":""
+      },
+      {
+        "school":"Diplomado en Desarrollo de Sitios Web y Aplicaciones Moviles",
+        "degree":"https://correoipn-my.sharepoint.com/:f:/g/personal/fdpazg1400_alumno_ipn_mx/EjKARMI_bcJFsS03DLcgQ94BXNf4LGCN0kHOE4BbPG2Jbw?e=rWBJ2H",
+        "graduated":"",
+        "description":""
       }
     ],
     "work":[
