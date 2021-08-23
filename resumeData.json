@@ -206,18 +206,6 @@
         "url":""
       },
       {
-        "title":"Movies",
-        "category":"Flutter",
-        "image":"movies.jpeg",
-        "url":""
-      },
-      {
-        "title":"Scan QR",
-        "category":"Flutter",
-        "image":"qr.jpeg",
-        "url":""
-      },
-      {
         "title":"Virtual Laboratory Of Integration And Calculation Of The Area Under The Curve",
         "category":"Web Page - React",
         "image":"laboratory.jpeg",
@@ -227,6 +215,18 @@
         "title":"Partners GYM",
         "category":"Web Page - PHP, MySQL, JS",
         "image":"partners.jpeg",
+        "url":""
+      },
+      {
+        "title":"Movies",
+        "category":"Flutter",
+        "image":"movies.jpeg",
+        "url":""
+      },
+      {
+        "title":"Scan QR",
+        "category":"Flutter",
+        "image":"qr.jpeg",
         "url":""
       },
       {
