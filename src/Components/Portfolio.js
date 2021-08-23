@@ -54,7 +54,7 @@ class Portfolio extends Component {
                 {projects}
               </div>
             </div>
-            <p>Asi como otros proyectos privados de ambito profesional.</p>
+            <p>As well as other private projects of professional scope.</p>
           </div>
         </Fade>
       </section>

@@ -65,7 +65,7 @@ class Certifications extends Component {
                 <div className="twelve columns">{education}</div>
               {/* </div> */}
             </div><span>&bull;</span>
-            <p>Para ver mas de <a href={certificados}>Click Aqui</a></p>
+            <p>For more <a href={certificados}>Click Here</a></p>
           </div>
         </Slide>
 
