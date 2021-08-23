@@ -21,13 +21,32 @@ class Portfolio extends Component {
       );
     });
 
+    const projects2 = this.props.data.projects2.map(function (projects2) {
+      let projectImage = "images/portfolio/" + projects2.image;
+
+      return (
+        <div key={id++} className="columns portfolio-item">
+          <div className="item-wrap">
+            <img alt={projects2.title} src={projectImage} />
+            <div style={{ textAlign: "center" }}>{projects2.title}</div>
+            <div style={{ textAlign: "center" }}>{projects2.category}</div>
+          </div>
+        </div>
+      );
+    });
+
     return (
       <section id="portfolio">
         <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
               <h1>Check Out Some of My Works.</h1>
-
+              <div
+                id="portfolio-wrapper"
+                className="bgrid-completo s-bgrid-completo cf"
+              >
+                {projects2}
+              </div>
               <div
                 id="portfolio-wrapper"
                 className="bgrid-quarters s-bgrid-thirds cf"
@@ -35,6 +54,7 @@ class Portfolio extends Component {
                 {projects}
               </div>
             </div>
+            <p>Asi como otros proyectos privados de ambito profesional.</p>
           </div>
         </Fade>
       </section>
