@@ -198,7 +198,7 @@
     ]
   },
   "portfolio":{
-    "projects": [
+    "projects2": [
       {
         "title":"Medicinsk",
         "category":"Web Page - PHP, MySQL, JS",
@@ -216,7 +216,9 @@
         "category":"Web Page - PHP, MySQL, JS",
         "image":"partners.jpeg",
         "url":""
-      },
+      }
+    ],
+    "projects": [
       {
         "title":"Movies",
         "category":"Flutter",
