@@ -15,6 +15,7 @@ class Portfolio extends Component {
           <div className="item-wrap">
             <img alt={projects.title} src={projectImage} />
             <div style={{ textAlign: "center" }}>{projects.title}</div>
+            <div style={{ textAlign: "center" }}>{projects.category}</div>
           </div>
         </div>
       );
