@@ -15,6 +15,7 @@ class Certifications extends Component {
     if (!this.props.data) return null;
 
     const skillmessage = this.props.data.skillmessage;
+    const certificados = this.props.data.certificados;
     const education = this.props.data.education.map(function (education) {
       return (
         <div key={education.school}>
