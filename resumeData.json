@@ -123,23 +123,23 @@
     ]
   },
   "certi":{
-    "skillmessage":"CERTIFICADOS",
+    "skillmessage":"CERTIFICATES",
     "certificados":"https://correoipn-my.sharepoint.com/:f:/g/personal/fdpazg1400_alumno_ipn_mx/EoMeDEzUR2BIh2qzFhWTx1ABYreQpKRT_k-XUHUCmvt_rQ?e=Yx5o9U",
     "education":[
       {
-        "school":"Introduccion al Desarrollo Web I",
+        "school":"Introduction To Web Development I",
         "degree":"https://correoipn-my.sharepoint.com/:b:/g/personal/fdpazg1400_alumno_ipn_mx/EU-Ki6C6qN9OpHqZ3ZNjixwBRvWOtIs0IA6VmZrGky9N_Q?e=aCxAyS",
         "graduated":"",
         "description":""
       },
       {
-        "school":"Desarrollo de Apps Moviles",
+        "school":"Mobile App Development",
         "degree":"https://correoipn-my.sharepoint.com/:b:/g/personal/fdpazg1400_alumno_ipn_mx/EYlDMdSVbmdFiAQYrLu7omwBkRSN8O0y0aNwUzwi47mD3Q?e=HKPoGQ",
         "graduated":"",
         "description":""
       },
       {
-        "school":"Diplomado en Desarrollo de Sitios Web y Aplicaciones Moviles",
+        "school":"Diploma in Web Site and Mobile Application Development",
         "degree":"https://correoipn-my.sharepoint.com/:f:/g/personal/fdpazg1400_alumno_ipn_mx/EjKARMI_bcJFsS03DLcgQ94BXNf4LGCN0kHOE4BbPG2Jbw?e=rWBJ2H",
         "graduated":"",
         "description":""
@@ -202,19 +202,19 @@
     "projects2": [
       {
         "title":"Medicinsk",
-        "category":"Web Page - PHP, MySQL, JS",
+        "category":"Doctor-Patient Appointment Management / Web Page - PHP, MySQL, JS",
         "image":"medicinsk.jpeg",
         "url":""
       },
       {
         "title":"Virtual Laboratory Of Integration And Calculation Of The Area Under The Curve",
-        "category":"Web Page - React",
+        "category":"Laboratory to solve integrals graphically / Web Page - React",
         "image":"laboratory.jpeg",
         "url":""
       },
       {
         "title":"Partners GYM",
-        "category":"Web Page - PHP, MySQL, JS",
+        "category":"User Control of a Gym / Web Page - PHP, MySQL, JS",
         "image":"partners.jpeg",
         "url":""
       }
@@ -222,19 +222,19 @@
     "projects": [
       {
         "title":"Movies",
-        "category":"Flutter",
+        "category":"Mobile Application with real time movie listings / Dart, Flutter",
         "image":"movies.jpeg",
         "url":""
       },
       {
         "title":"Scan QR",
-        "category":"Flutter",
+        "category":"QR Code Scanner / Dart, Flutter",
         "image":"qr.jpeg",
         "url":""
       },
       {
         "title":"Sputnik IA",
-        "category":"Android Studio",
+        "category":"Virtual Assistant for notes and alarms by voice engine / Java, Android Studio",
         "image":"sputnikia.jpeg",
         "url":""
       }
@@ -244,19 +244,19 @@
     "projects": [
       {
         "title":"Hackathon Fincluye Citibanamex 2019",
-        "category":"2do Lugar en Categoria 'Inclusion Financiera'",
+        "category":"2nd Place in 'Financial Inclusion' Category",
         "image":"hackathon.jpeg",
         "url":""
       },
       {
         "title":"Ideathon Fincluye Citibanamex 2020",
-        "category":"Participante Categoria 'Educacion Financiera'",
+        "category":"Participant Category 'Financial Education'",
         "image":"ideathon.jpeg",
         "url":""
       },
       {
         "title":"Hackify 2020",
-        "category":"Participante en 'Desarrollo de Soluciones en Pandemia'",
+        "category":"Participant in 'Development of Pandemic Solutions'",
         "image":"hackify.jpeg",
         "url":""
       }
