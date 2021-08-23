@@ -24,7 +24,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://fernando-paz.github.io/portfolio/",
-    "resumedownload":"https://fernando-paz.github.io/portfolio/src/data/CV_FDPG_va.pdf",
+    "resumedownload":"../src/data/CV_FDPG_va.pdf",
     "social":[
       {
         "name":"facebook",
