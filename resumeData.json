@@ -155,7 +155,7 @@
         "company":"Lytics",
         "title":"Software Developer",
         "years":"August 2020 - Currently",
-        "description":"Python, CRM, PHP, AWS, Linux."
+        "description":"Python, CRM, ODOO, PHP, AWS, Linux."
       }
     ],
     "skills":[
@@ -200,98 +200,62 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Medicinsk",
+        "category":"Web Page - PHP, MySQL, JS",
+        "image":"medicinsk.jpeg",
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Movies",
+        "category":"Flutter",
+        "image":"movies.jpeg",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Scan QR",
+        "category":"Flutter",
+        "image":"qr.jpeg",
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Virtual Laboratory Of Integration And Calculation Of The Area Under The Curve",
+        "category":"Web Page - React",
+        "image":"laboratory.jpeg",
+        "url":""
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Partners GYM",
+        "category":"Web Page - PHP, MySQL, JS",
+        "image":"parners.jpeg",
+        "url":""
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Sputnik IA",
+        "category":"Android Studio",
+        "image":"sputnikia.jpeg",
+        "url":""
       }
     ]
   },
   "eventos":{
     "projects": [
       {
-        "title":"Hackathon",
-        "category":"Hackathon Fincluye Citibanamex",
+        "title":"Hackathon Fincluye Citibanamex 2019",
+        "category":"2do Lugar en Categoria 'Inclusion Financiera'",
         "image":"hackathon.jpeg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":""
       },
       {
-        "title":"Ideathon",
-        "category":"Ideathon Fincluye Citibanamex",
+        "title":"Ideathon Fincluye Citibanamex 2020",
+        "category":"Participante Categoria 'Educacion Financiera'",
         "image":"ideathon.jpeg",
-        "url":"http://www.timbakerdev.com"
+        "url":""
       },
       {
-        "title":"Hackify",
-        "category":"Hackify",
+        "title":"Hackify 2020",
+        "category":"Participante en 'Desarrollo de Soluciones en Pandemia'",
         "image":"hackify.jpeg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":""
       }
     ]
   }
