@@ -43,7 +43,7 @@ class Portfolio extends Component {
               <h1>Check Out Some of My Works.</h1>
               <div
                 id="portfolio-wrapper"
-                className="bgrid-completo s-bgrid-completo cf"
+                className="bgrid-quarters s-bgrid-thirds cf"
               >
                 {projects2}
               </div>

@@ -27,7 +27,6 @@ class Eventos extends Component {
           <div className="row">
             <div className="twelve columns collapsed">
               <h1>Events</h1>
-
               <div
                 id="eventos-wrapper"
                 className="bgrid-quarters s-bgrid-thirds cf"
