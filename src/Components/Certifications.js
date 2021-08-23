@@ -56,19 +56,19 @@ class Certifications extends Component {
       <section id="certi">
         <Slide left duration={1300}>
           <div className="row education">
-            <div className="three columns header-col">
+            <div className="header-col">
               <h1>
-                <span>Certificados</span>
+                <span>{skillmessage}</span>
               </h1>
-
-              <div className="row item">
+              {/* <div className="row item"> */}
                 <div className="twelve columns">{education}</div>
-              </div>
-            </div>
+              {/* </div> */}
+            </div><span>&bull;</span>
+            <p>Para ver mas de <a href={education.certificados}>Click Aqui</a></p>
           </div>
         </Slide>
 
-        <Slide left duration={1300}>
+        {/* <Slide left duration={1300}>
           <div className="row work">
             <div className="three columns header-col">
               <h1>
@@ -78,7 +78,7 @@ class Certifications extends Component {
 
             <div className="nine columns main-col">{work}</div>
           </div>
-        </Slide>
+        </Slide> */}
 
         {/* <Slide left duration={1300}>
           <div className="row skill">

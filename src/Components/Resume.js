@@ -20,7 +20,7 @@ class Resume extends Component {
         <div key={education.school}>
           <h3>{education.school}</h3>
           <p className="info">
-            {education.degree} <span>&bull;</span>
+            {education.degree} <span> -- </span>
             <em className="date">{education.graduated}</em>
           </p>
           <p>{education.description}</p>
@@ -34,7 +34,7 @@ class Resume extends Component {
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
-            <span>&bull;</span> <em className="date">{work.years}</em>
+            <span> -- </span> <em className="date">{work.years}</em>
           </p>
           <p>{work.description}</p>
         </div>
@@ -58,29 +58,23 @@ class Resume extends Component {
       <section id="resume">
         <Slide left duration={1300}>
           <div className="row education">
-            <div className="three columns header-col">
+            <div className="header-col">
               <h1>
                 <span>Education</span>
-              </h1>
-            </div>
-
-            <div className="nine columns main-col">
-              <div className="row item">
+              </h1><span> -- </span>
                 <div className="twelve columns">{education}</div>
-              </div>
             </div>
           </div>
         </Slide>
 
         <Slide left duration={1300}>
           <div className="row work">
-            <div className="three columns header-col">
+            <div className="header-col">
               <h1>
                 <span>Work</span>
-              </h1>
+              </h1><span> -- </span>
             </div>
-
-            <div className="nine columns main-col">{work}</div>
+            <div className="twelve columns">{work}</div>
           </div>
         </Slide>
 
