@@ -33,7 +33,7 @@ class About extends Component {
               />
             </div> */}
             <div className="nine columns main-col">
-              <h2>Can you tell me Paz</h2>
+              <h2>You can tell me Paz</h2>
               <p>{bio}<br></br>{bio2}<br></br>{bio3}<br></br>{bio4}</p>
               <div className="row">
                 <div className="columns contact-details">
