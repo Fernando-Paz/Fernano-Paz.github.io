@@ -2,9 +2,10 @@
   "main": {
     "name":"Fernando Daniel",
     "namesecond":"Paz Gomez",
-    "description":"<Computer Systems Engineering Student/>",
+    "description":"<Computer Systems Engineer/>",
     "description1":"Software and Web Developer;",
-    "description2":"'Microsoft Student Ambassador'",
+    "description2":"Odoo Developer:",
+    "description3":"'Microsoft Student Ambassador'",
     "image":"p.png",
     "bio":"Self-taught developer, attentive to new technologies to provide the best solutions.",
     "bio2":"I like web and mobile development, and everything related to artificial intelligence.",
@@ -24,7 +25,8 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://fernando-paz.github.io/portfolio/",
-    "resumedownload":"https://correoipn-my.sharepoint.com/:b:/g/personal/fdpazg1400_alumno_ipn_mx/EanwYKhm1kxEj85fyRSUwbkBhYRgKMLDOLVQPHliYZWwMw?e=ddJ6sI",
+    "resumedownload":"https://correoipn-my.sharepoint.com/:b:/g/personal/fdpazg1400_alumno_ipn_mx/EQ4EuRvYHOFDkx0Bq2bi1ScBG-IKIZtyYx-yhLdIOC2vuw?e=bpEGvt",
+    "resumeodoodownload":"https://correoipn-my.sharepoint.com/:b:/g/personal/fdpazg1400_alumno_ipn_mx/EVyOMiluj7NEsTDgf-EdPGkBo3AXkXldITiGEzSuexgXqA?e=y7tbVT",
     "social":[
       {
         "name":"facebook",
@@ -58,8 +60,8 @@
     "education":[
       {
         "school":"IPN - ESCOM",
-        "degree":"Computer Systems Engineering",
-        "graduated":"December 2021",
+        "degree":"Computer Systems Engineer",
+        "graduated":"Diciembre 2021",
         "description":"Linux, Servidores, Java, Python, C, SQL, VHDL"
       },
       {
@@ -73,14 +75,22 @@
       {
         "company":"CONAMAT",
         "title":"Teacher",
-        "years":"March 2018 - Dic 2019",
+        "years":"March 2018 - Jun 2019",
         "description":"Physics and mathematics at middle and high school level."
       },
       {
         "company":"Lytics",
         "title":"Software Developer",
         "years":"August 2020 - Currently",
-        "description":"Python, CRM, PHP, AWS, Linux."
+        "description":"Python, CRM - Odoo, PHP, AWS, Linux."
+      }
+    ],
+    "program":[
+      {
+        "company":"Microsoft",
+        "title":"Microsoft Learn Student Ambassadors",
+        "years":"Enero 2021 - Currently",
+        "description":"Azure"
       }
     ],
     "skills":[
@@ -149,14 +159,14 @@
       {
         "company":"CONAMAT",
         "title":"Teacher",
-        "years":"March 2018 - Dic 2019",
+        "years":"March 2018 - Jun 2019",
         "description":"Physics and mathematics at middle and high school level."
       },
       {
         "company":"Lytics",
         "title":"Software Developer",
         "years":"August 2020 - Currently",
-        "description":"Python, CRM, ODOO, PHP, AWS, Linux."
+        "description":"Python, CRM - ODOO, PHP, AWS, Linux."
       }
     ],
     "skills":[
@@ -237,6 +247,12 @@
         "category":"Virtual Assistant for notes and alarms by voice engine / Java, Android Studio",
         "image":"sputnikia.jpeg",
         "url":""
+      },
+      {
+        "title":"Bugaet",
+        "category":"Image recognition application capable of detecting bedbugs transmitting chagas disease. / Python, Dart, Flutter",
+        "image":"bugaet.jpeg",
+        "url":""
       }
     ]
   },
@@ -258,6 +274,12 @@
         "title":"Hackify 2020",
         "category":"Participant in 'Development of Pandemic Solutions'",
         "image":"hackify.jpeg",
+        "url":""
+      },
+      {
+        "title":"Azure Cloud Week 2022",
+        "category":"Participant of the Microsoft Learn Studen Ambassadors event.",
+        "image":"acw.jpeg",
         "url":""
       }
     ]
