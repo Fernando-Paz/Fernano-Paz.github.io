@@ -12,6 +12,7 @@ class Header extends Component {
     const description = this.props.data.description;
     const description1 = this.props.data.description1;
     const description2 = this.props.data.description2;
+    const description3 = this.props.data.description3;
 
     return (
       <header id="home">
@@ -78,6 +79,7 @@ class Header extends Component {
               <h3>{description}</h3>
               <h3>{description1}</h3>
               <h3>{description2}</h3>
+              <h3>{description3}</h3>
             </Fade>
           </div>
         </div>
