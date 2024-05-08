@@ -27,15 +27,15 @@ class Certifications extends Component {
       );
     });
 
-    const work = this.props.data.work.map(function (work) {
+    const experience = this.props.data.experience.map(function (experience) {
       return (
-        <div key={work.company}>
-          <h3>{work.company}</h3>
+        <div key={experience.company}>
+          <h3>{experience.company}</h3>
           <p className="info">
-            {work.title}
-            <span>&bull;</span> <em className="date">{work.years}</em>
+            {experience.title}
+            <span>&bull;</span> <em className="date">{experience.years}</em>
           </p>
-          <p>{work.description}</p>
+          <p>{experience.description}</p>
         </div>
       );
     });

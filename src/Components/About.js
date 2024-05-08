@@ -7,20 +7,20 @@ class About extends Component {
 
     const name = this.props.data.name;
     const namesecond = this.props.data.namesecond;
-    const profilepic = "images/" + this.props.data.image;
+    // const profilepic = "images/" + this.props.data.image;
     const bio = this.props.data.bio;
     const bio2 = this.props.data.bio2;
     const bio3 = this.props.data.bio3;
     const bio4 = this.props.data.bio4;
-    const street = this.props.data.address.street;
-    const city = this.props.data.address.city;
-    const state = this.props.data.address.state;
-    const zip = this.props.data.address.zip;
+    // const street = this.props.data.address.street;
+    // const city = this.props.data.address.city;
+    // const state = this.props.data.address.state;
+    // const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
     const email2 = this.props.data.email2;
-    const resumeDownload = this.props.data.resumedownload;
-    const resumeodooDownload = this.props.data.resumeodoodownload;
+    const resumeendownload = this.props.data.resumeendownload;
+    const resumeesdownload = this.props.data.resumeesdownload;
 
     return (
       <section id="about">
