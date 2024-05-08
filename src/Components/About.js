@@ -51,13 +51,13 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i> Resume
+                    <a href={resumeendownload} className="button">
+                      <i className="fa fa-download"></i> Resume EN
                     </a>
                   </p>
                   <p>
-                    <a href={resumeodooDownload} className="button">
-                      <i className="fa fa-download"></i> Resume Odoo
+                    <a href={resumeesdownload} className="button">
+                      <i className="fa fa-download"></i> Resume ES
                     </a>
                   </p>
                 </div>
