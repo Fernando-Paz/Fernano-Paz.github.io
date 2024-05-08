@@ -8,7 +8,7 @@ class Portfolio extends Component {
     if (!this.props.data) return null;
 
     const projects = this.props.data.projects.map(function (projects) {
-      let projectImage = "images/portfolio/" + projects.image;
+      let projectImage = process.env.PUBLIC_URL + "/images/portfolio/" + projects.image;
 
       return (
         <div key={id++} className="columns portfolio-item">
@@ -22,7 +22,7 @@ class Portfolio extends Component {
     });
 
     const projects2 = this.props.data.projects2.map(function (projects2) {
-      let projectImage = "images/portfolio/" + projects2.image;
+      let projectImage = process.env.PUBLIC_URL + "/images/portfolio/" + projects2.image;
 
       return (
         <div key={id++} className="columns portfolio-item">

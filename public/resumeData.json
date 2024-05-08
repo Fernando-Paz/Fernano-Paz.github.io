@@ -71,11 +71,11 @@
         "description":"Web, Java, Android, C, Networking, SQL."
       }
     ],
-    "experience":[
+    "work":[
       {
         "company":"Lytics",
         "title":"Software Developer",
-        "years":"August 2020 - Currently",
+        "years":"August 2020 - Present",
         "description":"Python, CRM - Odoo, AWS, Linux, Postgresql."
       },
       {
@@ -95,7 +95,7 @@
       {
         "company":"Microsoft",
         "title":"Microsoft Learn Student Ambassadors",
-        "years":"Enero 2021 - Currently",
+        "years":"Enero 2021 - Present",
         "description":"Azure"
       }
     ],
@@ -167,7 +167,7 @@
         "description":""
       }
     ],
-    "experience":[
+    "work":[
       {
         "company":"CONAMAT",
         "title":"Teacher",
@@ -277,9 +277,15 @@
   "eventos":{
     "projects": [
       {
-        "title":"Odoo Experience",
+        "title":"Odoo Experience 2023",
         "category":"Belgium",
         "image":"odoo_experience.jpeg",
+        "url":""
+      },
+      {
+        "title":"Azure Cloud Week 2022",
+        "category":"Participant of the Microsoft Learn Studen Ambassadors event.",
+        "image":"acw.jpeg",
         "url":""
       },
       {
@@ -298,12 +304,6 @@
         "title":"Hackify 2020",
         "category":"Participant in 'Development of Pandemic Solutions'",
         "image":"hackify.jpeg",
-        "url":""
-      },
-      {
-        "title":"Azure Cloud Week 2022",
-        "category":"Participant of the Microsoft Learn Studen Ambassadors event.",
-        "image":"acw.jpeg",
         "url":""
       }
     ]

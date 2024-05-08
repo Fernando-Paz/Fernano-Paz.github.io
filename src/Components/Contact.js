@@ -18,7 +18,7 @@ class Contact extends Component {
           <div className="row section-head">
             <div className="two columns header-col">
               <h1>
-                <span>-</span>
+                <span>--</span>
               </h1>
             </div>
 
@@ -26,7 +26,7 @@ class Contact extends Component {
               <p className="lead">{message}</p>
               <p className="lead">{message1}</p>
               <div className="widget widget_contact">
-                <h4>Phone</h4>
+                {/* <h4>Phone</h4> */}
                 <p className="address">
                   <span>{name} {namesecond}</span>
                   <br />
